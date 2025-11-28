@@ -1,0 +1,10 @@
+^D:\DESKTOP\CPP_TETRIS\BUILD\CMAKEFILES\88AD2AD08AF7DE3FF30C5B382A148C92\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Desktop/CPP_TETRIS -BD:/Desktop/CPP_TETRIS/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Desktop/CPP_TETRIS/build/CPP_TETRIS.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
