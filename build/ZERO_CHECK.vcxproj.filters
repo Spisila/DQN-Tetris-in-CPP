@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="D:\Desktop\CPP_TETRIS\build\CMakeFiles\88ad2ad08af7de3ff30c5b382a148c92\generate.stamp.rule">
+    <CustomBuild Include="D:\Desktop\DQN-Tetris-in-CPP\build\CMakeFiles\04489854551c6f80bdc839abd1695643\generate.stamp.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{8DDE1CC0-F297-3F55-988C-F3E2DFC6ACD4}</UniqueIdentifier>
+      <UniqueIdentifier>{6089C7A8-326D-3714-8747-45F7D2AC62BD}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

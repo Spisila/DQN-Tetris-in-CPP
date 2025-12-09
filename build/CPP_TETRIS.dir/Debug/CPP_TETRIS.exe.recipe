@@ -2,10 +2,10 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\Desktop\CPP_TETRIS\build\x64\Debug\ZERO_CHECK</FullPath>
+      <FullPath>D:\Desktop\DQN-Tetris-in-CPP\build\x64\Debug\ZERO_CHECK</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>D:\Desktop\CPP_TETRIS\bin\Debug\CPP_TETRIS.exe</FullPath>
+      <FullPath>D:\Desktop\DQN-Tetris-in-CPP\bin\Debug\CPP_TETRIS.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

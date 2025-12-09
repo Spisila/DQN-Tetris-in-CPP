@@ -1,3 +1,3 @@
-D:/Desktop/CPP_TETRIS/build/CMakeFiles/CPP_TETRIS.dir
-D:/Desktop/CPP_TETRIS/build/CMakeFiles/ALL_BUILD.dir
-D:/Desktop/CPP_TETRIS/build/CMakeFiles/ZERO_CHECK.dir
+D:/Desktop/DQN-Tetris-in-CPP/build/CMakeFiles/CPP_TETRIS.dir
+D:/Desktop/DQN-Tetris-in-CPP/build/CMakeFiles/ALL_BUILD.dir
+D:/Desktop/DQN-Tetris-in-CPP/build/CMakeFiles/ZERO_CHECK.dir

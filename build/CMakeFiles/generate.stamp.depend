@@ -25,10 +25,10 @@ C:/Program Files/CMake/share/cmake-4.2/Modules/Platform/Windows-MSVC-CXX.cmake
 C:/Program Files/CMake/share/cmake-4.2/Modules/Platform/Windows-MSVC.cmake
 C:/Program Files/CMake/share/cmake-4.2/Modules/Platform/Windows.cmake
 C:/Program Files/CMake/share/cmake-4.2/Modules/Platform/WindowsPaths.cmake
-D:/Desktop/CPP_TETRIS/CMakeLists.txt
-D:/Desktop/CPP_TETRIS/build/CMakeFiles/4.2.0-rc2/CMakeCXXCompiler.cmake
-D:/Desktop/CPP_TETRIS/build/CMakeFiles/4.2.0-rc2/CMakeRCCompiler.cmake
-D:/Desktop/CPP_TETRIS/build/CMakeFiles/4.2.0-rc2/CMakeSystem.cmake
+D:/Desktop/DQN-Tetris-in-CPP/CMakeLists.txt
+D:/Desktop/DQN-Tetris-in-CPP/build/CMakeFiles/4.2.0-rc2/CMakeCXXCompiler.cmake
+D:/Desktop/DQN-Tetris-in-CPP/build/CMakeFiles/4.2.0-rc2/CMakeRCCompiler.cmake
+D:/Desktop/DQN-Tetris-in-CPP/build/CMakeFiles/4.2.0-rc2/CMakeSystem.cmake
 D:/Faculdade/CPP/vcpkg/installed/x64-windows/share/raylib/raylib-config-version.cmake
 D:/Faculdade/CPP/vcpkg/installed/x64-windows/share/raylib/raylib-config.cmake
 D:/Faculdade/CPP/vcpkg/scripts/buildsystems/vcpkg.cmake
